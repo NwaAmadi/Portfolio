@@ -8,7 +8,7 @@ const projects = [
     title: "Schedule Manager",
     description: "A scheduling system enabling admins to create, delete, and manage programs while notifying participants via Twilio SMS API. Tech Stack: React.js (Frontend), Flask (Backend), PostgreSQL (Database), JWT (Auth), Twilio SMS API (Notifications). Features: Admin authentication, program management, SMS notifications, and RESTful API.",
     image: "/placeholder.svg?height=200&width=300",
-    tags: ["React", "Flask", "PostgreSQL", "Twilio"],
+    tags: ["React.js", "Flask", "PostgreSQL", "Twilio", "Node.js"],
     demoLink: "#",
     codeLink: "#"
 
