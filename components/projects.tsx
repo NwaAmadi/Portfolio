@@ -5,18 +5,24 @@ import { Button } from "@/components/ui/button"
 
 const projects = [
   {
-    title: "Project 1",
-    description: "A brief description of Project 1",
+    title: "Schedule Manager",
+    description: "A scheduling system enabling admins to create, delete, and manage programs while notifying participants via Twilio SMS API. Tech Stack: React.js (Frontend), Flask (Backend), PostgreSQL (Database), JWT (Auth), Twilio SMS API (Notifications). Features: Admin authentication, program management, SMS notifications, and RESTful API.",
     image: "/placeholder.svg?height=200&width=300",
-    tags: ["React", "Node.js", "MongoDB"],
+    tags: ["React", "Flask", "PostgreSQL", "Twilio"],
     demoLink: "#",
-    codeLink: "#",
+    codeLink: "#"
+
   },
   {
-    title: "Project 2",
-    description: "A brief description of Project 2",
+    title: "Event website for group project",
+    description: "Developed a fully functional event website for a group project, showcasing\
+    the event details, registration forms, and interactive features using HTML and CSS\
+     for frontend design. The backend was built with PHP,\
+     enabling dynamic content management and form handling. Tech Stack: \
+     HTML, CSS, PHP (Backend), Key Features: Event details display, user registration, interactive design,\
+     Role: Sole developer for both frontend and backend components",
     image: "/placeholder.svg?height=200&width=300",
-    tags: ["Next.js", "TypeScript", "Tailwind CSS"],
+    tags: ["HTML", "CSS", "PHP"],
     demoLink: "#",
     codeLink: "#",
   },
